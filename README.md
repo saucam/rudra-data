@@ -6,111 +6,111 @@
 
 |Name|Author|Status|
 |-----|-----|------|
-|Rigveda||:white_large_square|
-|Yajurveda||:white_large_square|
-|Samveda||:white_large_square|
-|Atharvveda||:white_large_square|
+|Rigveda||<input type="checkbox" disabled />|
+|Yajurveda||<input type="checkbox" disabled />|
+|Samveda||<input type="checkbox" disabled />|
+|Atharvveda||<input type="checkbox" disabled />|
 
 ## Itihasa
 
 |Name|Author|Status|
 |----|------|------|
-|Ramayan|Valmiki|:white_large_square|
-|Mahabharata|Ved Vyas|:white_large_square|
-|Gita|Ved Vyas|:white_large_square|
+|Ramayan|Valmiki|<input type="checkbox" disabled />|
+|Mahabharata|Ved Vyas|<input type="checkbox" disabled />|
+|Gita|Ved Vyas|<input type="checkbox" disabled />|
 
 ## Upveda
 
 |Name|Author|Status|
 |----|------|------|
-|Ayurveda||:white_large_square|
-|Dhanurveda||:white_large_square|
-|Gandharvaveda||:white_large_square|
-|Sthapatyaveda||:white_large_square|
+|Ayurveda||<input type="checkbox" disabled />|
+|Dhanurveda||<input type="checkbox" disabled />|
+|Gandharvaveda||<input type="checkbox" disabled />|
+|Sthapatyaveda||<input type="checkbox" disabled />|
 
 ## Upanishad
 
 |Name|Author|Status|
 |----|------|------|
-|Brihadaranyakopanishad||:white_large_square|
-|Chhandogyopanishad||:white_large_square|
-|Taitriyopanishad||:white_large_square|
-|Ishavasyopanishad||:white_large_square|
-|Kenopanishad||:white_large_square|
-|Prashnopanishad||:white_large_square|
-|Mundakopanishad||:white_large_square|
-|Mandookyopanishad||:white_large_square|
+|Brihadaranyakopanishad||<input type="checkbox" disabled />|
+|Chhandogyopanishad||<input type="checkbox" disabled />|
+|Taitriyopanishad||<input type="checkbox" disabled />|
+|Ishavasyopanishad||<input type="checkbox" disabled />|
+|Kenopanishad||<input type="checkbox" disabled />|
+|Prashnopanishad||<input type="checkbox" disabled />|
+|Mundakopanishad||<input type="checkbox" disabled />|
+|Mandookyopanishad||<input type="checkbox" disabled />|
 
 ## Puranas
 
 |Name|Author|Status|
 |----|------|------|
-|Brahmapuran|Ved Vyas|:white_large_square|
-|Vishnupuran|Ved Vyas|:white_large_square|
-|Shivpuran|Ved Vyas|:white_large_square|
-|Bhagwatpuran|Ved Vyas|:white_large_square|
-|Naradpuran|Ved Vyas|:white_large_square|
-|Markandeypuran|Ved Vyas|:white_large_square|
-|Agnipuran|Ved Vyas|:white_large_square|
-|Shravishyapuran|Ved Vyas|:white_large_square|
-|Bhavishyapuran|Ved Vyas|:white_large_square|
-|Brahmavaivartpuran|Ved Vyas|:white_large_square|
-|Lingpuran|Ved Vyas|:white_large_square|
-|Varahpuran|Ved Vyas|:white_large_square|
-|Skandpuran|Ved Vyas|:white_large_square|
-|Vamanpuran|Ved Vyas|:white_large_square|
-|Kurmapuran|Ved Vyas|:white_large_square|
-|Matsyapuran|Ved Vyas|:white_large_square|
-|Garunpuran|Ved Vyas|:white_large_square|
-|Brahmaandpuran|Ved Vyas|:white_large_square|
-|Vayupuran|Ved Vyas|:white_large_square|
+|Brahmapuran|Ved Vyas|<input type="checkbox" disabled />|
+|Vishnupuran|Ved Vyas|<input type="checkbox" disabled />|
+|Shivpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Bhagwatpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Naradpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Markandeypuran|Ved Vyas|<input type="checkbox" disabled />|
+|Agnipuran|Ved Vyas|<input type="checkbox" disabled />|
+|Shravishyapuran|Ved Vyas|<input type="checkbox" disabled />|
+|Bhavishyapuran|Ved Vyas|<input type="checkbox" disabled />|
+|Brahmavaivartpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Lingpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Varahpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Skandpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Vamanpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Kurmapuran|Ved Vyas|<input type="checkbox" disabled />|
+|Matsyapuran|Ved Vyas|<input type="checkbox" disabled />|
+|Garunpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Brahmaandpuran|Ved Vyas|<input type="checkbox" disabled />|
+|Vayupuran|Ved Vyas|<input type="checkbox" disabled />|
 
 ## Saahitya
 
 |Name|Author|Status|
 |----|------|------|
-|Ashtadhyayi|Panini|:white_large_square|
-|Arthashastra|Chanakya|:white_large_square|
-|Mahabhashya|Patanjali:white_large_square|
-|Sahatsadika Sutra|Nagarjun|:white_large_square|
-|Buddha Charita|Ashvaghosh|:white_large_square|
-|Saudaranand|Ashvaghosh|:white_large_square|
-|Mahavibhasha Shastra|Vasumitra|:white_large_square|
-|Swapana vas vadatta|Bhaas|:white_large_square|
-|Kamasutra|Vatsyayan|:white_large_square|
-|Kumar Sambhavam|Kalidasa|:white_large_square|
-|Abhigyanshakuntalam|Kalidasa|:white_large_square|
-|Meghdoot|Kalidasa|:white_large_square|
-|Raghuvansham|Kalidasa|:white_large_square|
-|Malvikagnimitram|Kalidasa|:white_large_square|
-|Natyashastra|Bharat Muni|:white_large_square|
-|Devichandraguptam|Vishakha Dutt|:white_large_square|
-|Mrichha katikam|Shoodrak|:white_large_square|
-|Surya siddhant| Aryabhatt|:white_large_square|
-|Vridanta samhita| Varahamihira|:white_large_square|
-|Panchatantra|Vishnu Sharma|:white_large_square|
-|Kathasaritasagar|Somdeva|:white_large_square|
-|Abhidamm Kosh|Vasubandhu|:white_large_square|
-|Mudrarakshas|Vishakha Dutt|:white_large_square|
-|Ravan vadh|Bhatit|:white_large_square|
-|Kiratarjuniyam|Bhaarvi|:white_large_square|
-|Dashkumar charitam|Dandi|:white_large_square|
-|Harsh charitam|Baanbhatt|:white_large_square|
-|Kadambari|Baanbhatt|:white_large_square|
-|Vaasvadatta|Subandhu|:white_large_square|
-|Naagananda|Harshvardhan|:white_large_square|
-|Ratnavali|Harshavardhan|:white_large_square|
-|Priyadarshika|Harshavardhan|:white_large_square|
-|MaaltiMadhav|Bhavbhuti|:white_large_square|
-|Karpur manjari|Rajshekhar|:white_large_square|
-|Kavyamimansa|Rajshekhar|:white_large_square|
-|Navsaah Saank charitra padam|Gupt|:white_large_square|
-|Shabdanushasan|Raajbhog|:white_large_square|
-|Brihata Katha Manjari|Kshamenda|:white_large_square|
-|Naishdhiya charitam|Shri Harsha|:white_large_square|
-|Geet Govinda|Jaidev|:white_large_square|
-|Shishupal vadh|Maagh|:white_large_square|
-|Raasmala|Someshwar|:white_large_square|
+|Ashtadhyayi|Panini|<input type="checkbox" disabled />|
+|Arthashastra|Chanakya|<input type="checkbox" disabled />|
+|Mahabhashya|Patanjali<input type="checkbox" disabled />|
+|Sahatsadika Sutra|Nagarjun|<input type="checkbox" disabled />|
+|Buddha Charita|Ashvaghosh|<input type="checkbox" disabled />|
+|Saudaranand|Ashvaghosh|<input type="checkbox" disabled />|
+|Mahavibhasha Shastra|Vasumitra|<input type="checkbox" disabled />|
+|Swapana vas vadatta|Bhaas|<input type="checkbox" disabled />|
+|Kamasutra|Vatsyayan|<input type="checkbox" disabled />|
+|Kumar Sambhavam|Kalidasa|<input type="checkbox" disabled />|
+|Abhigyanshakuntalam|Kalidasa|<input type="checkbox" disabled />|
+|Meghdoot|Kalidasa|<input type="checkbox" disabled />|
+|Raghuvansham|Kalidasa|<input type="checkbox" disabled />|
+|Malvikagnimitram|Kalidasa|<input type="checkbox" disabled />|
+|Natyashastra|Bharat Muni|<input type="checkbox" disabled />|
+|Devichandraguptam|Vishakha Dutt|<input type="checkbox" disabled />|
+|Mrichha katikam|Shoodrak|<input type="checkbox" disabled />|
+|Surya siddhant| Aryabhatt|<input type="checkbox" disabled />|
+|Vridanta samhita| Varahamihira|<input type="checkbox" disabled />|
+|Panchatantra|Vishnu Sharma|<input type="checkbox" disabled />|
+|Kathasaritasagar|Somdeva|<input type="checkbox" disabled />|
+|Abhidamm Kosh|Vasubandhu|<input type="checkbox" disabled />|
+|Mudrarakshas|Vishakha Dutt|<input type="checkbox" disabled />|
+|Ravan vadh|Bhatit|<input type="checkbox" disabled />|
+|Kiratarjuniyam|Bhaarvi|<input type="checkbox" disabled />|
+|Dashkumar charitam|Dandi|<input type="checkbox" disabled />|
+|Harsh charitam|Baanbhatt|<input type="checkbox" disabled />|
+|Kadambari|Baanbhatt|<input type="checkbox" disabled />|
+|Vaasvadatta|Subandhu|<input type="checkbox" disabled />|
+|Naagananda|Harshvardhan|<input type="checkbox" disabled />|
+|Ratnavali|Harshavardhan|<input type="checkbox" disabled />|
+|Priyadarshika|Harshavardhan|<input type="checkbox" disabled />|
+|MaaltiMadhav|Bhavbhuti|<input type="checkbox" disabled />|
+|Karpur manjari|Rajshekhar|<input type="checkbox" disabled />|
+|Kavyamimansa|Rajshekhar|<input type="checkbox" disabled />|
+|Navsaah Saank charitra padam|Gupt|<input type="checkbox" disabled />|
+|Shabdanushasan|Raajbhog|<input type="checkbox" disabled />|
+|Brihata Katha Manjari|Kshamenda|<input type="checkbox" disabled />|
+|Naishdhiya charitam|Shri Harsha|<input type="checkbox" disabled />|
+|Geet Govinda|Jaidev|<input type="checkbox" disabled />|
+|Shishupal vadh|Maagh|<input type="checkbox" disabled />|
+|Raasmala|Someshwar|<input type="checkbox" disabled />|
 
 ## Instruction data
 
