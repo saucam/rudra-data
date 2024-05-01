@@ -14,6 +14,7 @@
 ## Itihasa
 
 |Name|Author|
+|----|------|
 |Ramayan|Valmiki|
 |Mahabharata|Ved Vyas|
 |Gita|Ved Vyas|
@@ -21,6 +22,7 @@
 ## Upveda
 
 |Name|Author|
+|----|------|
 |Ayurveda||
 |Dhanurveda||
 |Gandharvaveda||
@@ -29,6 +31,7 @@
 ## Upanishad
 
 |Name|Author|
+|----|------|
 |Brihadaranyakopanishad||
 |Chhandogyopanishad||
 |Taitriyopanishad||
@@ -41,6 +44,7 @@
 ## Puranas
 
 |Name|Author|
+|----|------|
 |Brahmapuran|Ved Vyas|
 |Vishnupuran|Ved Vyas|
 |Shivpuran|Ved Vyas|
@@ -64,6 +68,7 @@
 ## Saahitya
 
 |Name|Author|
+|----|------|
 |Ashtadhyayi|Panini|
 |Arthashastra|Chanakya|
 |Mahabhashya|Patanjali
@@ -110,3 +115,8 @@
 ## Instruction data
 
 To generate instructions following data we [follow this](Generation.md)
+
+
+## Source list credits
+
+- Acharya Shri Bharat Krishna
