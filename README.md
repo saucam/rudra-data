@@ -2,7 +2,7 @@
 
 ## Sources to be included
 
-## Vedas
+## VedaH
 
 |Name|Author|Status|
 |-----|-----|------|
@@ -115,6 +115,10 @@
 ## Instruction data
 
 To generate instructions following data we [follow this](Generation.md)
+
+## Devanagiri script
+
+[Read here](Devanagiri.md)
 
 
 ## Source list credits
